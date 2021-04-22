@@ -12,3 +12,11 @@ header{
     height: 150px;
     background-color: yellow;
 }
+main .container-alto{
+    height: 500px;
+    background-color: blue;
+}
+main .container-basso{
+    height: 500px;
+    background-color: orange;
+}
